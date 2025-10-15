@@ -236,4 +236,23 @@ Senior Staff Software Engineer | Fintech & HealthTech Enthusiast
 # Base API URL for PokéAPI
 EXPO_PUBLIC_BASE_API_URL=https://pokeapi.co/api/v2/
 ```
+
 # Pok-dex
+
+## 📸 Screenshots
+
+| List Screen                                     | Details Screen                                         | Details Screen                                         |
+| ----------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| ![List Screen](./ScreenShot/ScreenshotHome.png) | ![Details Screen](./ScreenShot/ScreenshotDetails1.png) | ![Details Screen](./ScreenShot/ScreenshotDetails2.png) |
+
+<h2>🎞️ Demo Preview</h2>
+
+<video src="./ScreenShot/ScreenRecording.mp4" width="600" controls autoplay loop muted>
+  Your browser does not support the video tag.
+</video>
+
+<br/>
+
+<a href="./ScreenShot/ScreenRecording.mp4" download>
+  🎬 <b>Download Demo Video</b>
+</a>
